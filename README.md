@@ -13,7 +13,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | :------: | ------ | ------ | ------------ | :-------: |
 |  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 |  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
-| COMPLETE  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+| X | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Portfolio](https://codepen.io/asg5704/full/ALJAwP/) | 23 June 2017 |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
@@ -23,22 +23,22 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
-|  | Project | Make a todo list webapp |   |    |
+| X | Project | Make a todo list webapp | [Todo List](https://codepen.io/asg5704/full/PjXZbW/)  | 29 July 2017 |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
+| X | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Project](https://codepen.io/asg5704/pen/mwRePK) | 28 June 2017 |
+| X | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | [Project](https://codepen.io/asg5704/pen/pwdxGg) | 11 July 2017 |
+| X | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Wiki-Viewer](https://codepen.io/asg5704/full/zzbWQE)  | 14 July 2017 |
+| X | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
+| X | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) | 7 October 2017
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
-|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
+| X | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) | [Project](https://codepen.io/asg5704/pen/brgrWv) | 6 August 2017 |
+| X | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) | [Project](https://codepen.io/asg5704/pen/RLoRVj) | 28 September 2017 |
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
-|   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
+| X | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
@@ -60,7 +60,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) (Paid) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
+|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) |   | 19 October 2017 |
 |   | Project | FCC Backend Project - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
 |   | Project | FCC Backend Project- [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
 |   | Project | FCC Backend Project- [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
