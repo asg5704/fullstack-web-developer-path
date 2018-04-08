@@ -11,17 +11,17 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
-|  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
+| Week 4 - PSET5 | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) on edX |  | Continued on 10 Apr 2018 |
+|  | Course |  [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 | X | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [Portfolio](https://codepen.io/asg5704/full/ALJAwP/) | 23 June 2017 |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
-|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
+| X | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
-|   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| 11% | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| X | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
+| X | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 | X | Project | Make a todo list webapp | [Todo List](https://codepen.io/asg5704/full/PjXZbW/)  | 29 July 2017 |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
@@ -31,15 +31,15 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | X | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
 | X | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) | 7 October 2017
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
-|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| X | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 | X | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) | [Project](https://codepen.io/asg5704/pen/brgrWv) | 6 August 2017 |
 | X | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) | [Project](https://codepen.io/asg5704/pen/RLoRVj) | 28 September 2017 |
-|   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
-|   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
-|   | Milestone | FreeCodeCamp Front End Certificate |   |    |
+| X | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) | [Project](https://codepen.io/asg5704/pen/zWMyyo) | 7 April 2018 |
+| X | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) | [Project](https://codepen.io/asg5704/pen/XEomLw)  | 8 April 2018  |
+| X | Milestone | FreeCodeCamp Front End Certificate | [Complete](https://www.freecodecamp.org/asg5704/front-end-certification)  | 8 April 2018 |
 |   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
 | X | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
-|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
+| X | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
