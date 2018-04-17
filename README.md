@@ -19,12 +19,12 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| 11% | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| 28% | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 | X | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 | X | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 | X | Project | Make a todo list webapp | [Todo List](https://codepen.io/asg5704/full/PjXZbW/)  | 29 July 2017 |
-|   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
+| 33% | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 | X | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Project](https://codepen.io/asg5704/pen/mwRePK) | 28 June 2017 |
 | X | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | [Project](https://codepen.io/asg5704/pen/pwdxGg) | 11 July 2017 |
 | X | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Wiki-Viewer](https://codepen.io/asg5704/full/zzbWQE)  | 14 July 2017 |
@@ -60,9 +60,9 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) |   | 19 October 2017 |
-|   | Project | FCC Backend Project - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
-|   | Project | FCC Backend Project- [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
+| X | Course | [Learn Node - Wes Bos](https://learnnode.com/) |   | 19 October 2017 |
+| x | Project | FCC Backend Project - [Timestamp Microservice](https://fcc-backend-01.glitch.me/) |   |    |
+| x | Project | FCC Backend Project- [Request Header Parser Microservice](https://fcc-backend-02.glitch.me/) |   |    |
 |   | Project | FCC Backend Project- [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
 |   | Project | FCC Backend Project- [Image Search Abstraction Layer](https://www.freecodecamp.com/challenges/image-search-abstraction-layer) |   |    |
 |   | Project | FCC Backend Project- [File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice) |   |    |
