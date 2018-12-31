@@ -19,12 +19,12 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| 28% | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| X | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 | X | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 | X | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 | X | Project | Make a todo list webapp | [Todo List](https://codepen.io/asg5704/full/PjXZbW/)  | 29 July 2017 |
-| 33% | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
+| X | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
 | X | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Project](https://codepen.io/asg5704/pen/mwRePK) | 28 June 2017 |
 | X | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | [Project](https://codepen.io/asg5704/pen/pwdxGg) | 11 July 2017 |
 | X | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Wiki-Viewer](https://codepen.io/asg5704/full/zzbWQE)  | 14 July 2017 |
@@ -50,9 +50,9 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
+| X | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
-|   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
+| X | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
 |   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
 |   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
